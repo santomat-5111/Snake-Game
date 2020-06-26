@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/santomat-5111/Snake-Game/issues"
   },
-  "homepage": "https://github.com/santomat-5111/Snake-Game#readme"
+  "homepage": "https://github.com/santomat-5111/Snake-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

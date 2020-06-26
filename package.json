@@ -1,0 +1,20 @@
+{
+  "name": "Snake-Game",
+  "version": "1.0.0",
+  "description": "This is a simple snake game developed using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santomat-5111/Snake-Game.git"
+  },
+  "keywords": [],
+  "author": "Santo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santomat-5111/Snake-Game/issues"
+  },
+  "homepage": "https://github.com/santomat-5111/Snake-Game#readme"
+}

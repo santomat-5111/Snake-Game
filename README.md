@@ -18,11 +18,11 @@
 node index.js
 ```
 
-![](D:\Git Repositories\Snake-Game\images\terminal.png)
+![](images\terminal.png)
 
 ####  Once you have done that, open your web browser and type in the following link: **http://localhost:3000**. The game will then start and will look something like this:
 
-![](D:\Git Repositories\Snake-Game\images\image.png)
+![](images\image.png)
 
 #### Navigate the game using your arrow keys and the snake will grow it's tail and that's denoted by each white boxes: 
 

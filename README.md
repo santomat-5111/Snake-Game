@@ -1,6 +1,6 @@
 # Snake Game
 
-------
+
 
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
 ![Issues](https://img.shields.io/github/issues/santomat-5111/Snake-Game)<br>

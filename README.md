@@ -3,8 +3,9 @@
 ------
 
 ![Status](https://img.shields.io/badge/status-completed-red)<br>
-![Issues](https://img.shields.io/badge/issues-0 open-blue)<br>![Stars](https://img.shields.io/badge/Stars-0-yellow)<br>
-![MIT license](https://img.shields.io/badge/License-MIT-green.svg)<br>
+![Issues](https://img.shields.io/github/issues/santomat-5111/Snake-Game)<br>
+![Stars](https://img.shields.io/github/stars/santomat-5111/Snake-Game)<br>
+![License](https://img.shields.io/github/license/santomat-5111/Snake-Game)<br>
 
 #### The snake game is one of my favourite games when I used to grow up and still is, so I wanted to replicate the entire game using JavaScript. The game is designed in such a way that the user has move the snake using the arrow keys ➡⬆⬅⬇.  The snake head is denoted by a red square and when eating an apple which is green in color, grows it's tail long. When playing there are only few rules: never hit the snake's tail with it's head, and also don't hit the snake's head on to the wall.
 
@@ -54,15 +55,15 @@
 node index.js
 ```
 
-![](images\terminal.png)
+![Use your terminal](images/terminal.png)
 
 ####  Once you have done that, open your web browser and type in the following link: **http://localhost:3000**. The game will then start and will look something like this:
 
-![](images\image.png)
+![starting game](images/image.png)
 
 #### Navigate the game using your arrow keys and the snake will grow it's tail and that's denoted by each white boxes: 
 
-![](D:\Git Repositories\Snake-Game\images\snake.png)
+![Playing Game](images/snake.png)
 
 ------
 

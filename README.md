@@ -10,6 +10,42 @@
 
 ------
 
+## <u>Prerequisites 💻</u>
+
+1. #### Node JS
+
+   - #### To download Node JS, click on this link: https://nodejs.org/en/download/
+
+   - #### After installing Node JS cross check whether you have successfully downloaded, to do that open your terminal and type in the following command:
+
+     ```
+     node -v
+     ```
+
+     #### This will display the version of your Node JS (v 12.17.1 or above)
+
+2. #### NPM
+
+   - #### NPM is a package manager and is already downloaded along with the Node JS that you have done before
+
+   - #### To confirm that you have installed NPM, type in the following command in the terminal:
+
+     ```
+     npm -v
+     ```
+
+   - #### To update NPM to the latest version, type in the following command in the terminal:
+
+     ```
+     npm install npm@latest -g
+     ```
+
+     *Once you have done that you are good to go*
+
+------
+
+
+
 ## <u>Play the Game 🎮</u>
 
 #### To play the game you will have to clone this repository. Once you have done that, open the directory / folder with your code editor to make any changes (if you wish). Open your terminal and direct the path to the cloned repository in your local drive. Enter the following command into the terminal to run the game:
